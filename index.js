@@ -11,6 +11,6 @@ function subtract (a,b) {
 } 
 
 function multipy (a,b){ 
-  number = a*b 
+  number = a * b 
   return number
 } 
