@@ -28,3 +28,4 @@ function dec(n) {
   number = n - 1 
   return number 
 } 
+
